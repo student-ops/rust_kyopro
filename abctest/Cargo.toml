@@ -24,5 +24,10 @@ path = "iron_rule/4.rs"
 name = "iron3a"
 path = "iron_rule/3a.rs"
 
+[[bin]]
+name = "222b"
+path = "abg/222b.rs"
+
+
 [dependencies]
 proconio = "0.4.5"
