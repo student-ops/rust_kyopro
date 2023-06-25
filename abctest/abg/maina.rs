@@ -4,8 +4,12 @@ fn main() {
     // input! {
     //   s:String
     // }
-    let mut sa: "hello".t;
-    // for i in s.as_str().chars() {}
-    // print!("{}", s)
-    for i int s
+    // create new string
+    let mut sa  =  "hello".to_string();
+    // define null string
+    let mut sb = String::new();
+    for i in 0..sa.len() {
+        sb.push(sa.pop().unwrap());
+    }
+    println!("{}", sb)
 }

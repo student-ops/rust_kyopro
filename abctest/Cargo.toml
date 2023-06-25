@@ -8,6 +8,21 @@ edition = "2021"
 name = "abga"
 path = "abg/maina.rs"
 
+[[bin]]
+name = "iron2"
+path = "iron_rule/2.rs"
+
+[[bin]]
+name = "iron3"
+path = "iron_rule/3.rs"
+
+[[bin]]
+name = "iron4"
+path = "iron_rule/4.rs"
+
+[[bin]]
+name = "iron3a"
+path = "iron_rule/3a.rs"
 
 [dependencies]
 proconio = "0.4.5"
