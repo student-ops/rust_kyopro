@@ -32,6 +32,14 @@ path = "abg/222b.rs"
 name = "219c"
 path = "abg/219c.rs"
 
+[[bin]]
+name = "297a"
+path = "abc297/a.rs"
+
+[[bin]]
+name = "297b"
+path = "abc297/b.rs"
+
 
 
 [dependencies]

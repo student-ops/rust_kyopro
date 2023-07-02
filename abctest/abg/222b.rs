@@ -1,5 +1,3 @@
-use std::iter::Cloned;
-
 use proconio::input;
 
 fn type_of<T>(_: T) -> String{
