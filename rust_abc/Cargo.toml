@@ -8,22 +8,57 @@ edition = "2021"
 proconio = "0.4.5"
 
 [[bin]]
-name= "main"
+name = "main"
 path = "src/main.rs"
 
 [[bin]]
-name= "308a"
+name = "308a"
 path = "src/308/a.rs"
 
 [[bin]]
-name= "308b"
+name = "308b"
 path = "src/308/b.rs"
 
 [[bin]]
-name= "308c"
+name = "308c"
 path = "src/308/c.rs"
 
 [[bin]]
-name= "308d"
+name = "308d"
 path = "src/308/d.rs"
 
+[[bin]]
+name = "310a"
+path = "src/310/a.rs"
+
+[[bin]]
+name = "310b"
+path = "src/310/b.rs"
+
+[[bin]]
+name = "310c"
+path = "src/310/c.rs"
+
+[[bin]]
+name = "346a"
+path = "src/346/a.rs"
+[[bin]]
+name = "346b"
+path = "src/346/a.rs"
+[[bin]]
+name = "346c"
+path = "src/346/c.rs"
+
+
+[[bin]]
+name = "348a"
+path = "src/348/a.rs"
+[[bin]]
+name = "348b"
+path = "src/348/b.rs"
+[[bin]]
+name = "348c"
+path = "src/348/c.rs"
+[[bin]]
+name = "348d"
+path = "src/348/d.rs"
